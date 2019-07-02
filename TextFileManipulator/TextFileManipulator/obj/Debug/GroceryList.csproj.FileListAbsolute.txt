@@ -1,0 +1,10 @@
+C:\Users\ethan\source\repos\GroceryList\GroceryList\bin\Debug\GroceryList.exe.config
+C:\Users\ethan\source\repos\GroceryList\GroceryList\bin\Debug\GroceryList.exe
+C:\Users\ethan\source\repos\GroceryList\GroceryList\bin\Debug\GroceryList.pdb
+C:\Users\ethan\source\repos\GroceryList\GroceryList\obj\Debug\GroceryList.csprojAssemblyReference.cache
+C:\Users\ethan\source\repos\GroceryList\GroceryList\obj\Debug\GroceryList.Form1.resources
+C:\Users\ethan\source\repos\GroceryList\GroceryList\obj\Debug\GroceryList.Properties.Resources.resources
+C:\Users\ethan\source\repos\GroceryList\GroceryList\obj\Debug\GroceryList.csproj.GenerateResource.cache
+C:\Users\ethan\source\repos\GroceryList\GroceryList\obj\Debug\GroceryList.csproj.CoreCompileInputs.cache
+C:\Users\ethan\source\repos\GroceryList\GroceryList\obj\Debug\GroceryList.exe
+C:\Users\ethan\source\repos\GroceryList\GroceryList\obj\Debug\GroceryList.pdb
